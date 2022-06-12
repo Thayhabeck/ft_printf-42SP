@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align=center>
-	 <i> Project developed during 42cursus - #3</i>
+	 <i> Project developed during 42cursus - #3 </i>
 </h2>
 
 ---
